@@ -243,7 +243,7 @@ export default function LandingPage() {
             rows: 5,
             required: true
           }}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764607732213-xkldobbk.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764665741778-mn98w0op.webp"
           imageAlt="Professional contact"
           mediaPosition="right"
           buttonText="Send Message"
