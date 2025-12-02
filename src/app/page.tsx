@@ -56,7 +56,7 @@ export default function LandingPage() {
               imageAlt: "Executive portrait"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764607732933-t994n9f2.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764665361873-ok3czqy2.png",
               imageAlt: "Corporate environment"
             },
             {
