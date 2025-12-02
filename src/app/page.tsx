@@ -52,7 +52,7 @@ export default function LandingPage() {
           ]}
           mediaItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764607732213-xkldobbk.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764665612943-qbj8yox3.jpg",
               imageAlt: "Executive portrait"
             },
             {
