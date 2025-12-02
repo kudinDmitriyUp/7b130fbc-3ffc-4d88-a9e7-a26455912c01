@@ -60,7 +60,7 @@ export default function LandingPage() {
               imageAlt: "Corporate environment"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764607733794-z37agnlp.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764664919835-2xt4a28h.jpg",
               imageAlt: "Business leadership"
             }
           ]}
